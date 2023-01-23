@@ -1,2 +1,2 @@
 # libasm
-the library on assembly
+Тhe library on assembly
