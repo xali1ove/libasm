@@ -1,2 +1,2 @@
 # libasm
-Тhe library on assembly
+Тhe standart C library on assembly
